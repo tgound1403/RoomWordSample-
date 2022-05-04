@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Room With a View Sample App</string>
+    <string name="hint_word">Input a word...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty</string>
+    <string name="add_new_word">ADD_NEW_WORD</string>
+</resources>
